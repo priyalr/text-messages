@@ -11,7 +11,7 @@
  3. Place the files in the `data/raw/` folder.
  4. Run `scripts/facebook_messages.py` if you have an export of your Facebook messages.
  5. Update `scripts/cleanse_messages.py` with the names of the sender and the receiver. There's no need to run this one.
- 6. Run `scripts/combine_message.py` to create the final outputs in `data/cleaned`.
+ 6. Run `scripts/combine_message.py` to create the final outputs in `data/cleaned/`.
  7. Use the outputs in `data/cleaned/` to analyse the messages. See [screenshots](#screenshots) below for examples.
 
 # Screenshots
