@@ -1,0 +1,21 @@
+,RowID,MessageDateTime,MessageSender,MessageText,VaderScore,MessageLength
+0,1,,,,0.0,0
+1,2,"8/7/18, 8:56:42 pm", Them,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",0.0,56
+2,3,"10/7/18, 4:10:45 pm", You,Missed voice call,-0.296,17
+3,4,"10/7/18, 4:11:11 pm", You,Missed voice call,-0.296,17
+4,5,"11/7/18, 5:35:02 am", You,Missed voice call,-0.296,17
+5,6,"11/7/18, 7:59:55 am", Them,Vestibulum non felis at tortor rhoncus tristique non ut purus.,0.0,62
+6,7,"11/7/18, 8:11:38 am", You,Aliquam 😂,0.0,9
+7,8,"13/7/18, 5:46:15 pm", You,posuere 🐸,0.0,9
+8,9,"13/7/18, 5:47:03 pm", Them,felis 👍,0.0,7
+9,10,"22/7/18, 5:27:05 pm", You,https://en.wikipedia.org/,0.0,25
+10,11,"22/7/18, 10:14:07 pm", You,Untitled • 1 page document omitted,0.0,34
+11,12,"24/7/18, 4:07:16 am", Them,image omitted,0.0,13
+12,13,"24/7/18, 5:52:30 am", Them,image omitted,0.0,13
+13,14,"24/7/18, 5:53:04 am", Them,image omitted,0.0,13
+14,15,"30/9/18, 9:34:48 pm", You,video omitted,0.0,13
+15,16,"12/10/18, 3:31:33 am", You,GIF omitted,0.0,11
+16,17,"12/10/18, 3:34:32 am", Them,😂😂,0.0,2
+17,18,"23/4/20, 3:07:39 pm", You,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",0.0,56
+18,19,"23/4/20, 2:51:27 pm", Them,Vestibulum non felis at tortor rhoncus tristique non ut purus.,0.0,62
+19,20,"23/4/20, 2:07:37 pm", Them,https://www.facebook.com/,0.0,25

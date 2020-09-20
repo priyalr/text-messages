@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Them"
+    },
+    {
+      "name": "You"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "You",
+      "timestamp_ms": 1587618459913,
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Them",
+      "timestamp_ms": 1587617487470,
+      "content": "Vestibulum non felis at tortor rhoncus tristique non ut purus.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Them",
+      "timestamp_ms": 1587614857710,
+      "content": "Them \u00f0\u009f\u00a5\u00b0 sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Them",
+      "timestamp_ms": 1587282170403,
+      "photos": [
+        {
+          "uri": "messages/inbox/LoremIpsum.jpg",
+          "creation_timestamp": 1587282170
+        }
+      ],
+      "type": "Generic"
+    }
+  ],
+  "title": "Them",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/Them"
+}
