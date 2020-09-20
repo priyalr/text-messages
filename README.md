@@ -2,6 +2,7 @@
 💬 Analysing Facebook and WhatsApp messages to understand messaging habits and language used. 
 
 🛠 built with Python
+📊 visuals created with Tableau
 
 # How to use
  1. Export your Facebook messages. See instructions [here](https://www.facebook.com/help/212802592074644/?ref=u2u).
@@ -10,9 +11,21 @@
  4. Run `scripts/facebook_messages.py` if you have an export of your Facebook messages.
  5. Update `scripts/cleanse_messages.py` with the names of the sender and the receiver. No need to run this.
  6. Run `combine_message.py` to create the final outputs in `data/cleaned`.
+ 7. Use the outputs in `data/cleaned` to analyse the messages. See screenshots below for examples.
 
 # Screenshots
+![Top 10 emojis](https://github.com/priyalr/text-messages/blob/master/screenshots/Top%2010%20emojis.png)
+![Top 10 words](https://github.com/priyalr/text-messages/blob/master/screenshots/Top%2010%20words.png)
 
+<img src="https://github.com/priyalr/text-messages/blob/master/screenshots/Media%202.PNG" width="400" height="398" title="Media">
+
+
+![Timeline](https://github.com/priyalr/text-messages/blob/master/screenshots/Timeline.PNG)
+![Sender analysis](https://github.com/priyalr/text-messages/blob/master/screenshots/Sender%20analysis.PNG)
+![Average text length](https://github.com/priyalr/text-messages/blob/master/screenshots/Avg%20text%20length.PNG)
+![Hourly texts](https://github.com/priyalr/text-messages/blob/master/screenshots/Hourly%20texts.PNG)
+![Hours by days](https://github.com/priyalr/text-messages/blob/master/screenshots/Hours%20by%20days%202.PNG)
+![Hours by months](https://github.com/priyalr/text-messages/blob/master/screenshots/Hours%20by%20months%202.PNG)
 
 # License
 MIT
